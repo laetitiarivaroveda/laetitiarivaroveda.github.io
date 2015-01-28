@@ -1,40 +1,11 @@
 -
   type: journal
-  title:
-  authors:
-  journal:
+  title: Effects of cold temperatures on the early stages of maize (review)
+  authors: Laetitia Riva-Roveda, Claire Périlleux
+  journal: Biotechnology, Agronomy, Society and Environment
   volume:
   issue:
-  year:
+  year: 2015
   month:
   pdf:
-  url:
--
-  type: dissertation
-  title:
-  authors:
-  year:
-  publisher:
-  pdf:
-  url:
-
--
-  type: magazine
-  title:
-  authors:
-  magazine:
-  volume:
-  issue:
-  year:
-  pages:
-  url:
-  pdf:
--
-  type: conference
-  title:
-  authors:
-  conference:
-  year:
-  pages:
-  pdf:
-  url:
+  url: in press
